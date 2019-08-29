@@ -41,11 +41,32 @@ description: 匆匆走过 回首 脚印深浅交错
 >
 > 5. 项目路径下执行bash脚本 script/server, 这条命令会创建一个本地站点 [127.0.0.1:4000]。到这你就可以在本地来调试和修改自己想要的信息了。  
 >
-> * 总结   
-> 如果你不满意style，**改**；如果你不满意layout，**改**；如果你两个都满意，那就**改** _config.yml；所以这个模板存在的意义仅仅是占个坑而已，你想抹点儿泥上去，随你。有点坑的是，1. 记得所有的md文件最好都设置好title和description，不然会有意想不到的惊喜。2. 部署后文件名是区分大小写的。   
+## 总结   
+> 如果你不满意style，**改**；如果你不满意layout，**改**；如果你两个都满意，那就**改** _config.yml；所以这个模板存在的意义仅仅是占个坑而已，你想抹点儿泥上去，随你。例如:      
+> _config.yml
+> ```bash
+> # 在配置文件内指定theme,无需使用Theme Chooser去指定theme
+> title: Maxthon's Small World
+> theme: jekyll-theme-cayman
+> ```
+> style.scss
+> ```css
+> @media print{
+>    .site-footer-credits{ display: none;}
+>    .noprint {display: none;}
+>    .page-header {text-align: left}
+> }
+> ```
+> 有点坑的是:
+>   1. 记得所有的md文件最好都设置好title和description，不然会有意想不到的惊喜。
+>   2. 部署后文件名是区分大小写的。   
 >
 >  * 项目结构如下   
 > 可定制的文件用红色框框标注出来了。另外_site文件夹就是本地构建完成后的所有文件。这里我根据自己的需要加上了FontAwesome 和 favicon.icon。
->  ![Cayman Project Structure](04.png)
+>  ![Cayman Project Structure](./04.png)
+>
+> * 修改完成后,我上传到 GitHub 中的文件如下:
+> ![maxthon.github.io overview](./05.png)
+>
 
 [[回到主页]](../../index.html) &nbsp;&nbsp; <!--[[下一篇]]()-->
