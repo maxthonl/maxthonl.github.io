@@ -8,5 +8,5 @@ description: Welcome to my small world. Here are my steps on my ways.
 
 ## Articles
 >  
-> 2019-08-29. [如何构建github pages](./articles/2018-08-29/index.html)    
+> 2019-08-29. [如何构建github pages](./articles/2019-08-29/index.html)    
 >
