@@ -1,0 +1,10 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+@media print{
+    .site-footer-credits{ display: none;}
+    .noprint {display: none;}
+    .page-header {text-align: left}
+}
