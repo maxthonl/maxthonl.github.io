@@ -3,7 +3,7 @@ layout: default
 title: Maxthon's Small World
 description: Welcome to my small world. Here are my steps on my ways.
 ---
-### <span class="noprint">[返回](../index.html)</span>
+### <span class="noprint">[Back](../index.html)</span>
 
 ## <i class="fa fa-mars"> Maxthon Lu / Front-End Engineer <span class="noprint">[中文](./myself-zh.html)</span>
 > 13761972301   

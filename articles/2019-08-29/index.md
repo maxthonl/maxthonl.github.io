@@ -69,4 +69,6 @@ description: 匆匆走过 回首 脚印深浅交错
 > ![maxthon.github.io overview](./05.png)
 >
 
-[[回到主页]](../../index.html) &nbsp;&nbsp; <!--[[下一篇]]()-->
+[[回到主页]](../../index.html)
+
+[[下一篇 -- 初探 Dart 语言规范]](../2019-09-04/index.html)
