@@ -105,7 +105,7 @@ description: 匆匆走过 回首 脚印深浅交错
 > 原文：A redirecting factory constructor specifies a call to a constructor of another class that is to be used whenever the redirecting constructor is called...
 
 ## 3. const constructor
-> const 允许定义一个常量对象, 使用const修饰的constructor内部所有的成员变量都必须是final的. 并且传入的参数是编译时常量 (y = p+ 100).  
+> const 允许定义一个常量对象, 使用const修饰的constructor内部所有的成员变量都必须是final的. 并且传入的参数是编译时常量 (y = p+ 100). 这在防止对象被修改的场景中是非常有用的.
 > ```dart
 > class C {
 >   final x, y, z;
