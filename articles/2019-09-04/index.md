@@ -105,7 +105,7 @@ description: 匆匆走过 回首 脚印深浅交错
 > 原文：A redirecting factory constructor specifies a call to a constructor of another class that is to be used whenever the redirecting constructor is called...
 
 ## 3. const constructor
-> const修饰的构造函数和初始化参数列表给了我们从外部定义实例内部的机会：   
+> const 允许定义一个常量对象, 使用const修饰的constructor内部所有的成员变量都必须是final的. 并且传入的参数是编译时常量 (y = p+ 100).  
 > ```dart
 > class C {
 >   final x, y, z;
@@ -149,7 +149,7 @@ description: 匆匆走过 回首 脚印深浅交错
 > 原文：The type parameters of a generic class are available in the lexical scope of the superclass clause, potentially shadowing classes in the surrounding scope... 并参考 Generic Method Instantiation 章节
 
 ## 5. super class / mixin
-> 首先声明dart是单继承，凡是号称多继承的文章可以忽略了，mixin就相当于一个有重载能力的程序片段，所以mixin不能声明构造函数，下面的示例显示Test的继承关系是从右到左的。
+> 首先声明dart是单继承，mixin就相当于一个有重载能力的程序片段，所以mixin不能声明构造函数，下面的示例显示Test的继承关系是从右到左的。
 > ```dart
 > void main() {
 >   var tst = Test();
