@@ -19,7 +19,7 @@ description: 匆匆走过 回首 脚印深浅交错
 #### 2018.11 - 至今
 #### 资深前端工程师 - 飞驰镁物（北京）汽车科技有限公司上海分公司
 > 在宝马项目组负责车载APP的前端研发及新版App的BFF层搭建。Scrum团队，主要项目包括：  
-> * MobileConnected
+> * MobileConnected   
 > BMW提供的手机app，前端使用Flutter完成，BFF层使用Nodejs，主要用于聚合后端服务及整合前端逻辑。比如Notification，需要将后台的Notification聚合后转成前端需要的格式，以此减少手机端的调用及逻辑。
 >
 > * Weather   
