@@ -18,14 +18,16 @@ description: Welcome to my small world. Here are my steps on my ways.
 #### Nov-2018.11 ~ Now
 #### Onboard Front-End Engineer - FutureMove Automotive Co., Ltd
 > Be responsible for developing and maintaining BON apps which are running on BMW cars.
->  
+> Be responsible for developing and maintaining BFF services for MobileConnected APP.
+> * MobileConnected
+> A Mobile App from BMW for BMW driver. The Front-end is implemented with Fultter, and BFF with Nodejs. Here is the definition for BFF <https://samnewman.io/patterns/architectural/bff/>. Some services like legal, notification, image, agent... are finished by our team.
+>
 > * Weather   
 > A BON app to show today and next 4 days weather forcast and AQI.
 >
 > * IPA Thirdparty    
 > Intelligent personal assistant, to allow the car owner getting as much useful infos as possible by pushing to talk with tmall. like weather forecast, wiki page, shopping and music etc.   
 >
-> All these apps are running on the platform of ID5/6 which is a linux system.
 
 #### Sep-2015 ~ Nov-2018
 #### Senior Software Engineer - Hansen Technology ( Shanghai ) Co., Ltd
