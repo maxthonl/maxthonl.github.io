@@ -8,7 +8,7 @@ description: Welcome to my small world. Here are my steps on my ways.
 ## <i class="fa fa-mars"> Maxthon Lu / Front-End Engineer <span class="noprint">[中文](./myself-zh.html)</span>
 > 13761972301   
 > <luzhlong@163.com>   
-> Room 401, No. 9, Lane 825, Pingshun Road, Jing'an District, Shanghai,  
+> Room 203, No. 26, Lane 598, Pulian Road, Minhang District, Shanghai,  
 > <https://maxthonl.github.io>
 
 ## About Me
