@@ -39,20 +39,20 @@ description: Welcome to my small world. Here are my steps on my ways.
 > * NUI:    
 > The company hope we can provide our clients a new ICC system with more fantastic web interface with more powerful and high performance. The project including controls library, NUI page, spoke design and GraphQL service. Some new frameworks or technique were brought into this project. like Angular2+ / GraphQL. we use Gulp to bundle our front-end codes.
 >
-> * Shopping Cart
+> * Shopping Cart    
 > The project is going to replace current customer capture flow with a new friendly shopping cart flow. In this project, we need to develop some new controls, like progress step bar, text-mask, dynamic form… and design the flow structure. We also use Angular2+ and GraphQL to build the project.
 
 #### Sep-2012 ~ Sep-2015
 #### Tools&Process Engineer - Shanghai SAIFEI EWIS Manufacturing Co.,Ltd
 > Develop tools and web system to help company analyzing the product data.
 >
-> * E-Softwares   
+> * E-Softwares    
 > A range of tools to check data's validation / maturity or generating output files. All developed by C#.  
 > 
-> * Easy2D
+> * Easy2D    
 > This app is used to generate harness drawing [2D] automatically. It allows user to rotate routing path, to zoom the view and to modify the properties of connector and harness segment. User can also update this file when the DB data are modified. We use WPF to build the app.
 >
-> * Engineering-Manager
+> * Engineering-Manager    
 > A PHP web site for engineering team. It provides data management,  authority management, process management, tools management, KPI and 3Dviewer. We use LDAP to manage the user’s account and MySQL to store our engineering data.
 
 #### Jul-2010 ~ Jul-2012
