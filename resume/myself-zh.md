@@ -8,7 +8,7 @@ description: 匆匆走过 回首 脚印深浅交错
 ## <i class="fa fa-mars"> 芦振龙 前端工程师 <span class="noprint">[English](./myself-en.html)</span>
 > 13761972301   
 > <luzhlong@163.com>   
-> 上海市静安区平顺路825弄9号401   
+> 上海市闵行区浦连路598弄26号203   
 > <https://maxthonl.github.io>
 
 ## 关于我
