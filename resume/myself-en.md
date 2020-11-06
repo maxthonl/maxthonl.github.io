@@ -12,7 +12,7 @@ description: Welcome to my small world. Here are my steps on my ways.
 > <https://maxthonl.github.io>
 
 ## About Me
-> I have been working in shanghai more than 10 years after granduated from Yancheng Institute of Technology. As a software engineer, I don't like to argue which language is the best for a developer. I'm good at JS and C# and on my way to learning Flutter now.   
+> I have been working in shanghai more than 10 years after granduated from Yancheng Institute of Technology. As a software engineer, I don't like to argue which language is best for a developer. I'm good at JS and C# and on my way to learning Flutter now.   
 
 ## Working Experience
 #### Nov-2018.11 ~ Now
